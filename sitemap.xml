@@ -74,6 +74,12 @@
     </url>
   
     <url>
+      <loc>https://voller.netlify.app/bodys-clique-e-veja-</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://voller.netlify.app/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -92,13 +98,13 @@
     </url>
   
     <url>
-      <loc>https://voller.netlify.app/pages/privacidade</loc>
+      <loc>https://voller.netlify.app/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://voller.netlify.app/pages/pagamentos</loc>
+      <loc>https://voller.netlify.app/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
