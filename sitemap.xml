@@ -26,6 +26,12 @@
     </url>
   
     <url>
+      <loc>https://voller.netlify.app/body-alcinha-elastico</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://voller.netlify.app/blusas-e-regatas</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
