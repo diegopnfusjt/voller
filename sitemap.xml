@@ -32,6 +32,18 @@
     </url>
   
     <url>
+      <loc>https://voller.netlify.app/bodys-clique-e-veja-</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://voller.netlify.app/moda-inverno</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://voller.netlify.app/blusas-e-regatas</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -50,12 +62,6 @@
     </url>
   
     <url>
-      <loc>https://voller.netlify.app/moda-inverno</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://voller.netlify.app/macacoes-e-jardineiras</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -69,12 +75,6 @@
   
     <url>
       <loc>https://voller.netlify.app/calcas</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://voller.netlify.app/bodys-clique-e-veja-</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
