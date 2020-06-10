@@ -56,24 +56,6 @@
     </url>
   
     <url>
-      <loc>https://voller.netlify.app/macacoes-e-jardineiras</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://voller.netlify.app/croppeds</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://voller.netlify.app/calcas</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://voller.netlify.app/bodys-clique-e-veja-</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
