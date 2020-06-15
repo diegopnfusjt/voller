@@ -56,6 +56,66 @@
     </url>
   
     <url>
+      <loc>https://voller.netlify.app/vestido-reto</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://voller.netlify.app/saia-courino</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://voller.netlify.app/short-clochard</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://voller.netlify.app/saia-suede</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://voller.netlify.app/short-saia-suede</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://voller.netlify.app/saia-plissada-longa-estampada</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://voller.netlify.app/saia-plissada-longa-lisa</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://voller.netlify.app/blazer-neoprene</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://voller.netlify.app/blusa-estampada-manga-flare</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://voller.netlify.app/blusa-ciganinha-estampada</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://voller.netlify.app/blusas-e-regatas</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
