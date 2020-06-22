@@ -2,54 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>https://voller.netlify.app/blusas-e-regatas</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://voller.netlify.app/vestidos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://voller.netlify.app/shorts-e-saias</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://voller.netlify.app/moda-inverno</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://voller.netlify.app/calcas</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://voller.netlify.app/macacoes-e-jardineiras</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://voller.netlify.app/croppeds</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://voller.netlify.app/bodys</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://voller.netlify.app/vestido-canelado</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -153,12 +105,6 @@
   
     <url>
       <loc>https://voller.netlify.app/blusa-ciganinha-estampada</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://voller.netlify.app/blusa-transpassada-nx</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -578,7 +524,61 @@
     </url>
   
     <url>
+      <loc>https://voller.netlify.app/blusas-e-regatas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://voller.netlify.app/vestidos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://voller.netlify.app/shorts-e-saias</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://voller.netlify.app/moda-inverno</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://voller.netlify.app/calcas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://voller.netlify.app/macacoes-e-jardineiras</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://voller.netlify.app/croppeds</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://voller.netlify.app/bodys</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://voller.netlify.app/bodys-veja-</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://voller.netlify.app/cropped</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
@@ -590,13 +590,13 @@
     </url>
   
     <url>
-      <loc>https://voller.netlify.app/pages/faq</loc>
+      <loc>https://voller.netlify.app/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://voller.netlify.app/pages/entrega</loc>
+      <loc>https://voller.netlify.app/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
