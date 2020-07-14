@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
+      <loc>https://voller.netlify.app/t-shirts-ver-mais</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://voller.netlify.app/teste-criacao</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -11,12 +17,6 @@
       <loc>https://voller.netlify.app/mickey-branco</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://voller.netlify.app/t-shirts-ver-mais</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
     </url>
   
     <url>
@@ -38,13 +38,13 @@
     </url>
   
     <url>
-      <loc>https://voller.netlify.app/pages/pagamentos</loc>
+      <loc>https://voller.netlify.app/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://voller.netlify.app/pages/faq</loc>
+      <loc>https://voller.netlify.app/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -104,13 +104,13 @@
     </url>
   
     <url>
-      <loc>https://voller.netlify.app/app/index</loc>
+      <loc>https://voller.netlify.app/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://voller.netlify.app/admin/index</loc>
+      <loc>https://voller.netlify.app/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
