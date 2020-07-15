@@ -14,6 +14,24 @@
     </url>
   
     <url>
+      <loc>https://voller.netlify.app/tshirt-lisa-simpson-preto</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://voller.netlify.app/tshirt-vontade-de-deus-amarelo-claro</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://voller.netlify.app/t-shirt-chanel-vermelho</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://voller.netlify.app/t-shirts-ver-mais</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
