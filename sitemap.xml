@@ -122,6 +122,24 @@
     </url>
   
     <url>
+      <loc>https://voller.netlify.app/t-shirt-1990-new-york-preto</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://voller.netlify.app/t-shirt-chevrolet-all-star-preto</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://voller.netlify.app/t-shirt-vintage-1989-rosa</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://voller.netlify.app/t-shirts-ver-mais</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
